@@ -14,4 +14,4 @@ function evenOdd(num) {
     }
     return false;
 }
-console.log(evenOdd(99));
+//console.log(evenOdd(99));
