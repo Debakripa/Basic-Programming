@@ -7,3 +7,11 @@ function isPrime(num) {
     return false;
 }
 //console.log(isPrime(11));
+
+function evenOdd(num) {
+    if (num % 2 == 0) {
+        return true;
+    }
+    return false;
+}
+console.log(evenOdd(99));
